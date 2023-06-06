@@ -1,0 +1,5 @@
+nome = str(input('Qual seu nome?'))
+print('Analisando seu nome...')
+print('Seu nome em maiúsculo é {}'.format(nome.upper()))
+print('Seu nome em minúsculo fica {}'.format(nome.lower()))
+print()
